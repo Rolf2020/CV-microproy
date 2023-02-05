@@ -91,6 +91,7 @@ body {
 
 .hero-display-right {
   margin-left: 369px; /*mobile*/
+  float: right;
 }
 
 .section-title {
@@ -218,17 +219,15 @@ body {
   padding: 0 20px;
 }
 
-#aboutme{
-    background: #f9f9f9;
-  }
-
-
-
+#aboutme {
+  background: #f9f9f9;
+}
 
 /* Desktop */
 @media (min-width: 1024px) {
   .hero-display-right {
     margin-left: 1405px; /*desk*/
+    float: right;
   }
 
   .hero-button {
@@ -253,7 +252,7 @@ body {
     padding: 30px;
   }
 
-  #aboutme{
+  #aboutme {
     background: #f9f9f9;
   }
 }
