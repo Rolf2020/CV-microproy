@@ -39,13 +39,15 @@ body {
 
 .nav-links{
     list-style-type: none;
-    display: flex;
-    justify-content: flex-end;
+    float: right;
+    /* display: flex;
+    justify-content: flex-end; */
 }
 
 .site-section{
     /* display: flex; */
-    justify-content: flex-start;
+    float: left;
+    /* justify-content: flex-start; */
 }
 
 .section-link{
