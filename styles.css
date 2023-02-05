@@ -137,6 +137,7 @@ body {
     display: block;
     margin: 0 auto;
     max-height: 100px;
+    align-items: center;
 }
 
 .project{
@@ -146,3 +147,24 @@ body {
     border-top: 3px solid black;
 }
 
+.article-text{
+    display: block;
+    padding: 20px;
+    text-align: center;
+    line-height: 150%;
+}
+
+.article-subtitle{
+    padding: 20px 20px 20px 5px;
+    text-decoration: underline;
+}
+
+.section-link-experience{
+    color: cornflowerblue;
+}
+
+.article-list{
+    list-style-type: square;
+    padding: 20px;
+    line-height: 150%;
+}
