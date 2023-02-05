@@ -64,9 +64,33 @@ body {
 
 .slider{
     display: block;
+    margin: auto;
+    overflow: auto;
+    padding: 0 20px;
 }
 
 
 .slide{
-    width: 100%;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.hero-button{
+    border: none;
+    outline: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    color: white;
+    background: black;
+    cursor: pointer;
+
+}
+
+.hero-button:hover{
+    color: black;
+    background: rgb(173, 174, 175);
+}
+
+.hero-display-right{
+    margin-left: 342px; /* mobile */
 }
