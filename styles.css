@@ -189,3 +189,16 @@ body {
 .section-title-aboutme{
     padding: 100px;
 }
+
+.article-img-2{
+    display: block;
+    padding: 0 20px;
+    margin: 0 auto;
+    max-height: 50px;
+    align-items: center;
+}
+
+.con{
+    display: flex;
+    justify-content: center;
+}
