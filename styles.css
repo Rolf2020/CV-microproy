@@ -66,7 +66,7 @@ body {
     display: block;
     margin: auto;
     overflow: auto;
-    padding: 0 20px;
+    /* padding: 0 20px; */  /*tiene que ser 100%*/
 }
 
 
@@ -92,5 +92,5 @@ body {
 }
 
 .hero-display-right{
-    margin-left: 342px; /* mobile */
+    margin-left: 382px; /* mobile */
 }
