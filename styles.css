@@ -59,3 +59,12 @@ body {
 .section-link:hover{
     text-decoration: underline;
 }
+
+.slider{
+    display: block;
+}
+
+
+.slide{
+    width: 100%;
+}
