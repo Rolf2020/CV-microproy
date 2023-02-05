@@ -206,3 +206,20 @@ body {
 .article-subtitle-2{
     padding: 20px;
 }
+
+.input-box{
+    padding: 20px;
+    width: 90%;
+    height: 40px;
+    border-radius: 6px;
+
+}
+
+.con2{
+    padding: 20px;
+    border-radius: 6px;
+    
+}
+.send-button{
+    padding: 0 20px;
+}
