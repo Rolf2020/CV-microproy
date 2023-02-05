@@ -134,6 +134,7 @@ body {
     font-weight: 600;
     font-size: 17px;
     text-align: center;
+    padding: 20px;
 }
 
 .article-img{
@@ -170,4 +171,21 @@ body {
     list-style-type: square;
     padding: 20px;
     line-height: 150%;
+}
+
+.article-text-aboutme{
+    text-align: left;
+}
+
+.article-img-aboutme{
+    display: block;
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 250px;
+    max-height: 250px;
+    align-items: center;
+}
+
+.section-title-aboutme{
+    padding: 100px;
 }
