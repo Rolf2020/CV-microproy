@@ -92,5 +92,6 @@ body {
 }
 
 .hero-display-right{
-    margin-left: 382px; /* mobile */
+    /* margin-left: 382px; */  /*old mobile*/
+    margin-left: 369px;  /* new mobile*/
 }
